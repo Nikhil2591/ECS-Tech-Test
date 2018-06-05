@@ -1,0 +1,11 @@
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\bin\Debug\ToolsQATest.exe.config
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\bin\Debug\ToolsQATest.exe
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\bin\Debug\ToolsQATest.pdb
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\bin\Debug\nunit.framework.dll
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\bin\Debug\WebDriver.dll
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\bin\Debug\nunit.framework.pdb
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\bin\Debug\nunit.framework.xml
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\bin\Debug\WebDriver.xml
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\obj\Debug\ECSTechTest.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\obj\Debug\ToolsQATest.exe
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\ToolsQATest - Copy\ToolsQATest\obj\Debug\ToolsQATest.pdb
